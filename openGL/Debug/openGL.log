@@ -1,0 +1,13 @@
+﻿Build started 6/10/2020 8:47:17 PM.
+     1>Project "C:\Users\WINDOWS 10\Downloads\Telegram Desktop\JelenaIlic_NRT_32_19\KugliceOpenGL\openGL\openGL.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\openGL.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\Users\vulic\Downloads\Glew and Glut\freeglut\include" /I"C:\Users\vulic\Downloads\Glew and Glut\glew-1.11.0\include" /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\windows 10\downloads\telegram desktop\jelenailic_nrt_32_19\kugliceopengl\opengl\main.cpp(3): fatal error C1083: Cannot open include file: 'GL/glut.h': No such file or directory
+     1>Done Building Project "C:\Users\WINDOWS 10\Downloads\Telegram Desktop\JelenaIlic_NRT_32_19\KugliceOpenGL\openGL\openGL.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.45
